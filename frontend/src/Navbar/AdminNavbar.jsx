@@ -44,7 +44,7 @@ const TopNavbar = () => {
             <Link to="/admin/service">Services</Link>
           </li>
           <li>
-            <Link to="/admin/booking">Booking</Link>
+            <Link to="/admin/bookings">Booking</Link>
           </li>
           <li>
             <Link to="/admin/payments">Payments</Link>
